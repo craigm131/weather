@@ -2,4 +2,4 @@ This code will execute from the command line, relying on a venv noted in the fir
 
 The command is:
 
-./weather [zip code]`
+./weather [zip code]
